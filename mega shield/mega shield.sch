@@ -555,9 +555,9 @@ F 3 "" H 1800 3800 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 Text GLabel 3100 4100 2    50   Input ~ 0
-Tx1
+Tx2
 Text GLabel 3100 4000 2    50   Input ~ 0
-Rx1
+Rx2
 $Comp
 L power:+5V #PWR0110
 U 1 1 5CEEB536
@@ -581,9 +581,9 @@ F 3 "" H 3100 3800 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 Text GLabel 4250 4050 2    50   Input ~ 0
-Tx1
+Tx3
 Text GLabel 4250 3950 2    50   Input ~ 0
-Rx1
+Rx3
 $Comp
 L power:+5V #PWR0112
 U 1 1 5CEEC054
@@ -607,9 +607,9 @@ F 3 "" H 4250 3750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 Text GLabel 1800 4900 2    50   Input ~ 0
-Tx1
+SCL
 Text GLabel 1800 4800 2    50   Input ~ 0
-Rx1
+SDA
 $Comp
 L power:+5V #PWR0114
 U 1 1 5CEED9D6
