@@ -805,7 +805,7 @@ U 1 1 5D0169A2
 P 11150 2800
 F 0 "F1" V 10953 2800 50  0000 C CNN
 F 1 "Fuse" V 11044 2800 50  0000 C CNN
-F 2 "Fuse:Fuseholder_Cylinder-5x20mm_Schurter_0031_8201_Horizontal_Open" V 11080 2800 50  0001 C CNN
+F 2 "rashik:fuse_holder" V 11080 2800 50  0001 C CNN
 F 3 "~" H 11150 2800 50  0001 C CNN
 	1    11150 2800
 	0    1    1    0   

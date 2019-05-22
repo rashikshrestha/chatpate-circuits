@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Arduino)(type KiCad)(uri "/media/rashik/Lrn/Projects/Project Chatpate/Arduino Library/Arduino.pretty")(options "")(descr ""))
+  (lib (name rashik)(type KiCad)(uri "/media/rashik/Lrn/Projects/Project Chatpate/Rashik Library/rashik.pretty")(options "")(descr ""))
+)

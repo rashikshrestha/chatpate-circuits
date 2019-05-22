@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name arduino)(type Legacy)(uri "/media/rashik/Lrn/Projects/Project Chatpate/Arduino Library/arduino.lib")(options "")(descr ""))
+)
